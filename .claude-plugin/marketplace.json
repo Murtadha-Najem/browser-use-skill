@@ -1,0 +1,24 @@
+{
+  "name": "browser-use-skill",
+  "owner": {
+    "name": "Murtadha Najem",
+    "url": "https://github.com/murtadha203"
+  },
+  "metadata": {
+    "description": "A Claude Code skill that routes every browser task to the fastest tool instead of screenshot-per-click.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "browser-use",
+      "source": "./plugins/browser-use",
+      "description": "Pick the fastest browser tool (dev-browser, agent-browser, playwright-cli, Chrome DevTools MCP) for any task that needs a web browser, and drive it in as few steps as possible.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Murtadha Najem"
+      },
+      "license": "MIT",
+      "keywords": ["browser", "automation", "skill", "playwright", "chrome-devtools", "agent-browser", "dev-browser"]
+    }
+  ]
+}
