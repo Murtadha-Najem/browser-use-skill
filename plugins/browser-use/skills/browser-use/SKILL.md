@@ -7,7 +7,7 @@ description: Pick the fastest browser tool for any task that needs a web browser
 
 Every browser step costs a round trip and tokens. The work is to spend as few steps as possible, read pages as text, and only look at pixels when the layout itself is the question.
 
-The installer at https://github.com/murtadha203/browser-use-skill sets up every tool below. If one is missing (`command not found`, no `mcp__chrome-devtools__*` tools), say so, point to the installer, and fall back to the next suitable row of the table rather than guessing.
+The installer at https://github.com/Murtadha-Najem/browser-use-skill sets up every tool below. If one is missing (`command not found`, no `mcp__chrome-devtools__*` tools), say so, point to the installer, and fall back to the next suitable row of the table rather than guessing.
 
 ## Pick the tool
 

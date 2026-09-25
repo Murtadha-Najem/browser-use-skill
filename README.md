@@ -55,7 +55,7 @@ Installs the four tools, registers the Chrome DevTools MCP server, and copies th
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/murtadha203/browser-use-skill
+git clone https://github.com/Murtadha-Najem/browser-use-skill
 cd browser-use-skill
 powershell -ExecutionPolicy Bypass -File .\install.ps1
 ```
@@ -63,7 +63,7 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 macOS and Linux:
 
 ```bash
-git clone https://github.com/murtadha203/browser-use-skill
+git clone https://github.com/Murtadha-Najem/browser-use-skill
 cd browser-use-skill
 ./install.sh
 ```
@@ -75,7 +75,7 @@ Then start a new Claude Code session.
 Inside Claude Code:
 
 ```
-/plugin marketplace add murtadha203/browser-use-skill
+/plugin marketplace add Murtadha-Najem/browser-use-skill
 /plugin install browser-use@browser-use-skill
 ```
 

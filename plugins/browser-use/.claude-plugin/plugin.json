@@ -4,10 +4,10 @@
   "description": "Pick the fastest browser tool (dev-browser, agent-browser, playwright-cli, Chrome DevTools MCP) for any task that needs a web browser, and drive it in as few steps as possible.",
   "author": {
     "name": "Murtadha Najem",
-    "url": "https://github.com/murtadha203"
+    "url": "https://github.com/Murtadha-Najem"
   },
-  "homepage": "https://github.com/murtadha203/browser-use-skill",
-  "repository": "https://github.com/murtadha203/browser-use-skill",
+  "homepage": "https://github.com/Murtadha-Najem/browser-use-skill",
+  "repository": "https://github.com/Murtadha-Najem/browser-use-skill",
   "license": "MIT",
   "keywords": ["browser", "automation", "skill", "playwright", "chrome-devtools", "agent-browser", "dev-browser"]
 }

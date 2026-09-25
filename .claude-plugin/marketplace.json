@@ -2,7 +2,7 @@
   "name": "browser-use-skill",
   "owner": {
     "name": "Murtadha Najem",
-    "url": "https://github.com/murtadha203"
+    "url": "https://github.com/Murtadha-Najem"
   },
   "metadata": {
     "description": "A Claude Code skill that routes every browser task to the fastest tool instead of screenshot-per-click.",
